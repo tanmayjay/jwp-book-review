@@ -1,0 +1,212 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: jwp-book-review\n"
+"POT-Creation-Date: 2020-06-30 18:20+0600\n"
+"PO-Revision-Date: 2020-06-30 19:01+0600\n"
+"Last-Translator: \n"
+"Language-Team: Tanmay Kirtania ( jktanmay@gmail.com )\n"
+"Language: bn_BD\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3.1\n"
+"X-Poedit-Basepath: ../..\n"
+"Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
+"X-Poedit-KeywordsList: __;_e;_x\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: includes\n"
+
+#: includes/Custom/Auth/Meta_Box.php:29
+msgid "Book Publications Info"
+msgstr "বই প্রকাশনা তথ্য"
+
+#: includes/Custom/Auth/Meta_Box.php:59
+msgid "Book Publications"
+msgstr "বই প্রকাশনা"
+
+#: includes/Custom/Auth/Meta_Box.php:61
+msgid "Book Publish Date"
+msgstr "বই প্রকাশের তারিখ"
+
+#: includes/Custom/Post_Type.php:40 includes/Custom/Post_Type.php:42
+msgid "Books"
+msgstr "গ্রন্থসমূহ"
+
+#: includes/Custom/Post_Type.php:41 includes/Custom/Post_Type.php:43
+msgid "Book"
+msgstr "গ্রন্থ"
+
+#: includes/Custom/Post_Type.php:44
+msgid "Add New"
+msgstr "নতুন  বই যুক্ত করুন"
+
+#: includes/Custom/Post_Type.php:45
+msgid "Add New Book"
+msgstr "নতুন বই যোগ করুন"
+
+#: includes/Custom/Post_Type.php:46
+msgid "New Book"
+msgstr "নতুন বই"
+
+#: includes/Custom/Post_Type.php:47
+msgid "Edit Book"
+msgstr "বই সম্পাদনা করুন"
+
+#: includes/Custom/Post_Type.php:48
+msgid "View Book"
+msgstr "বই দেখুন"
+
+#: includes/Custom/Post_Type.php:49
+msgid "All Books"
+msgstr "সবগুলো গ্রন্থ"
+
+#: includes/Custom/Post_Type.php:50
+msgid "Search Books"
+msgstr "বই অনুসন্ধান"
+
+#: includes/Custom/Post_Type.php:51
+msgid "Parent Books: "
+msgstr "উৎস "
+
+#: includes/Custom/Post_Type.php:52
+msgid "No books found."
+msgstr ""
+
+#: includes/Custom/Post_Type.php:53
+msgid "No books found in Trash."
+msgstr ""
+
+#: includes/Custom/Post_Type.php:54
+msgid "Book Cover Image"
+msgstr ""
+
+#: includes/Custom/Post_Type.php:55
+msgid "Set cover image"
+msgstr ""
+
+#: includes/Custom/Post_Type.php:56
+msgid "Remove cover image"
+msgstr ""
+
+#: includes/Custom/Post_Type.php:57
+msgid "Use as cover image"
+msgstr ""
+
+#: includes/Custom/Post_Type.php:58
+msgid "Book archives"
+msgstr ""
+
+#: includes/Custom/Post_Type.php:59
+msgid "Insert into book"
+msgstr ""
+
+#: includes/Custom/Post_Type.php:60
+msgid "Uploaded to this book"
+msgstr ""
+
+#: includes/Custom/Post_Type.php:61
+msgid "Filter books list"
+msgstr ""
+
+#: includes/Custom/Post_Type.php:62
+msgid "Books list navigation"
+msgstr ""
+
+#: includes/Custom/Post_Type.php:63
+msgid "Books list"
+msgstr ""
+
+#: includes/Custom/Post_Type.php:68
+msgid "Holds our books and book specific data"
+msgstr ""
+
+#: includes/Custom/Taxonomy.php:27
+msgid "Genres"
+msgstr "বইয়ের ধরনসমূহ"
+
+#: includes/Custom/Taxonomy.php:28 includes/Custom/Taxonomy.php:37
+msgid "Genre"
+msgstr "বইয়ের ধরন"
+
+#: includes/Custom/Taxonomy.php:29
+msgid "Search Genres"
+msgstr "বইয়ের ধরন অনুসন্ধান করুন"
+
+#: includes/Custom/Taxonomy.php:30
+msgid "All Genres"
+msgstr "বইয়ের সবগুলো ধরন"
+
+#: includes/Custom/Taxonomy.php:31
+msgid "Parent Genre"
+msgstr ""
+
+#: includes/Custom/Taxonomy.php:32
+msgid "Parent Genre: "
+msgstr ""
+
+#: includes/Custom/Taxonomy.php:33
+msgid "Edit Genre"
+msgstr "বইয়ের ধরন সম্পাদনা করুন"
+
+#: includes/Custom/Taxonomy.php:34
+msgid "Update Genre"
+msgstr "বইয়ের ধরন আপডেট করুন"
+
+#: includes/Custom/Taxonomy.php:35
+msgid "Add New Genre"
+msgstr "নতুন বইয়ের ধরন যোগ করুন"
+
+#: includes/Custom/Taxonomy.php:36
+msgid "New Genre"
+msgstr "নতুন বইয়ের ধরন"
+
+#: includes/Custom/Updated_Messages.php:30
+#: includes/Custom/Updated_Messages.php:33
+msgid "Book updated."
+msgstr "বইটি আপডেট করা হয়েছে."
+
+#: includes/Custom/Updated_Messages.php:31
+msgid "Custom field updated."
+msgstr "কাস্টম ক্ষেত্র আপডেট করা হয়েছে."
+
+#: includes/Custom/Updated_Messages.php:32
+msgid "Custom field deleted."
+msgstr "কাস্টম ক্ষেত্র মুছে ফেলা হয়েছে."
+
+#: includes/Custom/Updated_Messages.php:34
+#, php-format
+msgid "Book restored to revision from %s"
+msgstr ""
+
+#: includes/Custom/Updated_Messages.php:35
+msgid "Book published."
+msgstr "বইটি প্রকাশিত হয়েছে."
+
+#: includes/Custom/Updated_Messages.php:36
+msgid "Book saved."
+msgstr "বইটি সংরক্ষিত হয়েছে."
+
+#: includes/Custom/Updated_Messages.php:37
+msgid "Book submitted."
+msgstr "বই জমা দেওয়া হয়েছে."
+
+#: includes/Custom/Updated_Messages.php:39
+#, php-format
+msgid "Book scheduled for: <strong>%1$s</strong>."
+msgstr ""
+
+#: includes/Custom/Updated_Messages.php:40
+msgid "M j, Y @ G:i"
+msgstr ""
+
+#: includes/Custom/Updated_Messages.php:42
+msgid "Book draft updated."
+msgstr "বই খসড়া আপডেট হয়েছে."
+
+#: includes/Custom/Updated_Messages.php:50
+msgid "View book"
+msgstr "View Book"
+
+#: includes/Custom/Updated_Messages.php:61
+msgid "Preview book"
+msgstr "প্রাকপ্রচার নিরীক্ষণ"

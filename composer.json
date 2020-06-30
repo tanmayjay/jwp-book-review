@@ -1,0 +1,20 @@
+{
+    "name": "jay/jwp-book-review",
+    "description": "A plugin to a custom post type and handles all the functionality related to that.",
+    "type": "wordpress-plugin",
+    "license": "GPL v2",
+    "authors": [
+        {
+            "name": "Tanmay Kirtania",
+            "email": "jktanmay@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "JWP\\JBR\\": "includes/"
+        },
+        "files": [ "includes/functions.php" ]
+    }
+}
